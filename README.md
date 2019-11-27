@@ -1,10 +1,15 @@
-## 美國新聞爬蟲 
+<h1 align="center">Welcome to News_crawler 👋</h1>
+<p>
+</p>
 
-```
-ABC
-CNBC
-FOX
-華盛頓郵報
-```
+## Author
 
-<img width="50%" height="50%" scr="https://github.com/a10423006/News_crawler/blob/master/image/table.png">
+👤 **Annie**
+
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
