@@ -1,10 +1,8 @@
 ## 美國新聞爬蟲 
 
-```
-ABC
-CNBC
-FOX
-華盛頓郵報
-```
+1. [ABC](https://www.abc.net.au/news/)
+2. [CNBC](https://www.cnbc.com/?region=usa)
+3. [FOX](https://www.foxnews.com/)
+4. [華盛頓郵報](https://www.washingtonpost.com/)
 
-<img width="50%" height="50%" scr="https://github.com/a10423006/News_crawler/blob/master/image/table.png">
+<img width="90%" height="90%" src="https://github.com/a10423006/News_crawler/blob/master/image/table.png">
